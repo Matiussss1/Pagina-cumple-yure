@@ -31,3 +31,7 @@ header{
     font-size: 20px;
     color: rgb(228, 99, 121);
 }
+a{
+    color: red;
+    border-bottom: solid red;
+}

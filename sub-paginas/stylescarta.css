@@ -11,6 +11,7 @@ a{
     color: inherit;
     color: rgb(255, 127, 127);
     font-size: 30px;
+    border-bottom: solid red;
 }
 h2{
     font-size: 30px;
