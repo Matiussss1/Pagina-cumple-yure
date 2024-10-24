@@ -30,6 +30,10 @@ header{
     width: 50px;
 }
 
+.contenedor{
+    width: 100%;
+   
+}
 /* ================================== */
 /* ==========Main=====================*/
 /* ================================== */
@@ -49,10 +53,14 @@ main{
     align-items: center;
     font-family: "DynaPuff";
 
-
-
+}
+.primero{
+    width: 40%;
 }
 
+.segundo{
+    width: 40%;
+}
 .imagen-porter{
     width: 20rem;
     background-color: rgb(255, 127, 127);
@@ -94,6 +102,7 @@ main{
     justify-content: center;
     align-items: center;
     font-family: "DynaPuff";
+    
 }
 .foto-presentacion{
     display: flex;
