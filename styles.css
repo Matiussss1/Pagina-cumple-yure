@@ -54,7 +54,7 @@ main{
 }
 
 .imagen-porter{
-    width: 350px;
+    width: 40vw;
     background-color: rgb(255, 127, 127);
     padding: 20px;
     border-radius: 10px;
@@ -69,7 +69,7 @@ main{
 
 .imagenauto{
     display: flex;
-    width: 350px;
+    width: 40vw;
     background-color: rgb(255, 127, 127);
     padding: 20px;
     border-radius: 10px;
@@ -97,7 +97,7 @@ main{
 }
 .foto-presentacion{
     display: flex;
-    width: 350px;
+    width: 40vw;
     background-color: rgb(255, 127, 127);
     padding: 20px;
     border-radius: 10px;
