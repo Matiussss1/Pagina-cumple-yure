@@ -1,0 +1,35 @@
+* {
+    margin: 10px;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+    filter: none;
+    background-color: rgba(245, 245, 220, 0.836);
+}
+
+header{
+    display: flex;
+    gap: 20px;
+    border-radius: 10px;
+    font-family: "DynaPuff";
+}
+
+.titulo{
+color: red;
+}
+
+section{
+    display: flex;
+    flex-flow: row;
+    flex-wrap: wrap;
+
+}
+img{
+    display: flex;
+    width: 200px;
+    background-color: rgb(255, 127, 127);
+    padding: 10px;
+    border-radius: 10px;
+    border: solid brown 5px;
+    }

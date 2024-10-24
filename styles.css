@@ -1,0 +1,113 @@
+:root{
+    --font-family: 'DynaPuff';
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+    filter: none;
+    
+    }
+header{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    border: solid rgb(255, 0, 0);
+    border-radius: 10px;
+ 
+}
+.titulo{
+    display: flex;
+    color: red;
+    font-family: "DynaPuff";
+    }
+
+.img-corazon{
+    display: flex;
+    flex-direction: row;
+    width: 50px;
+}
+
+/* ================================== */
+/* ==========Main=====================*/
+/* ================================== */
+
+main{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    height: 500px;
+}
+    
+.primerfoto{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: "DynaPuff";
+
+
+
+}
+
+.imagen-porter{
+    width: 350px;
+    background-color: rgb(255, 127, 127);
+    padding: 20px;
+    border-radius: 10px;
+
+}
+
+.texto-1{
+    color: red;
+    justify-content: center;
+}
+
+
+.imagenauto{
+    display: flex;
+    width: 350px;
+    background-color: rgb(255, 127, 127);
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.segundafoto{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: "DynaPuff";
+
+}
+
+.texto-2{
+    color: red;
+    justify-content: center;
+}
+
+.tercero{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: "DynaPuff";
+}
+.foto-presentacion{
+    display: flex;
+    width: 350px;
+    background-color: rgb(255, 127, 127);
+    padding: 20px;
+    border-radius: 10px;
+    
+}
+
+.texto-3{
+    display: flex;
+    color: red;
+    justify-content: center;
+    align-items: center;
+}
+
