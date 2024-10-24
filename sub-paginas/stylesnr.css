@@ -33,3 +33,9 @@ img{
     border-radius: 10px;
     border: solid brown 5px;
     }
+a{
+    color: red;
+    font-size:30px;
+    border-bottom: solid red;
+    font-family: "DynaPuff";
+}
