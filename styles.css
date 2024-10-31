@@ -48,7 +48,7 @@ main{
     justify-content: center;
     align-items: center;
     font-family: "DynaPuff";
-
+    padding-right: 50px;
 
 
 }
@@ -109,4 +109,15 @@ main{
     color: red;
     justify-content: center;
     align-items: center;
+    
+}
+
+.contenedor{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: "DynaPuff";
+    flex-wrap: wrap;
+    align-content: center;
 }
